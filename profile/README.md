@@ -7,3 +7,5 @@
 이 토큰은 추후 여러 이벤트에 활용될 수 있으며, 숭실밥집으로의 확장성에 목표를 두었습니다.
 
 밥과 만남이라는 쉽고 친숙한 소재를 활용하여, 많은 이들을 WEB3 생태계에 쉽게 엔트리 할 수 있도록 돕는 것이 목표입니다.
+
+![image](https://github.com/Capstone3-BlockConnect/.github/assets/50680955/b8b1b1ca-38b5-4752-99df-8fc13fd4a22a)
